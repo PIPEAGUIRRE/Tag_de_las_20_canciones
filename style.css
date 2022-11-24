@@ -1,0 +1,58 @@
+.titulo1{
+    background-color: rgb(16, 79, 79);
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Kolker Brush', cursive;
+}
+.titulo2{
+    font-family: 'Rubik Bubbles', cursive;
+    font-size: 1rem;
+    color: white;
+}
+.titulo3{
+    background-color: rgba(74, 169, 30, 0.182);
+    color:white;
+    
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: rgb(16, 79, 79);
+    color: white;
+    size: 50px;
+}
+th{
+    background-color: aquamarine;
+    color:  black;
+}
+body{
+    background-image: url(https://fondosmil.com/fondo/63262.jpg);
+    background-size: 900px;
+}
+.table{
+    border-collapse: collapse;
+}
+.table td{
+    border: px solid;
+    text-align: center;
+    font-size: 1rem;
+}
+table th:hover{
+    color: aqua;
+    background-color: black;
+}
+.table tr{
+    color: rgb(78, 237, 237);
+    background-color:rgba(74, 169, 30, 0.182);
+    font-family: 'Rubik bubbles', cursive;
+}
+caption{
+    font-family: 'kolker Brush';
+}
+.table td:hover{
+color:brown;
+background-color:rgb(78, 237, 237);
+}
